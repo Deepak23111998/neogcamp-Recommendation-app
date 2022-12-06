@@ -1,6 +1,6 @@
-# Music-Recommendation-app
-A Music Recommendation app that lets you go through different music types.
+## Music-Recommendation-app
+# A Music Recommendation app that lets you go through different music types based on your mood.
 
-Created with CodeSandbox - https://codesandbox.io/s/epic-gagarin-s55842?file=/public/index.html
+# Created with CodeSandbox - https://codesandbox.io/s/epic-gagarin-s55842?file=/public/index.html
 
-Live Link - https://s55842.csb.app/
+# Live Link - https://s55842.csb.app/
